@@ -11,5 +11,6 @@ class B {
     public static void main(String args[ ]) {
         CreatingObject  obj = new CreatingObject();
         obj.test();
+    }
 }
-}
+
